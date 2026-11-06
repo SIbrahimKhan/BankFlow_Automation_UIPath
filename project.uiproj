@@ -1,0 +1,6 @@
+{
+  "Name": "BankFlow_QA_Automation",
+  "ProjectType": "Process",
+  "Description": "Banking application QA automation using UiPath",
+  "MainFile": "Main.xaml"
+}
